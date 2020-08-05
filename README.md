@@ -1,4 +1,4 @@
-![ass](https://user-images.githubusercontent.com/40313494/89419569-58de3080-d6e6-11ea-9400-53ceca62110a.gif)
+![ass](https://user-images.githubusercontent.com/40313494/89420516-ab6c1c80-d6e7-11ea-8eac-52faa7d3fdc9.png)
 
 
 ### Hi there 👋
