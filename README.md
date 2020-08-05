@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with Raspberry Pi projects
 - 💬 Ask me about Music, Arduino, Python, Flutter, Flask, Bootstrap, Django, wordpress, Video and Audio Editing.
 - 📫 How to reach me: nasheeb.dangi@gmail.com
-- 😄 Pronouns: He/him
-- 🎵 Fun fact: I am flute player
-- ⚡
+- 🎵 Fun fact: I am flute player and bit of 🎹🎸
+
 
