@@ -1,4 +1,4 @@
-![added_git](https://user-images.githubusercontent.com/40313494/89422228-ea02d680-d6e9-11ea-82f2-89c05777d724.png)
+![semi](https://user-images.githubusercontent.com/40313494/89425178-88446b80-d6ed-11ea-9873-1d191b87d956.png)
 
 
 ### Hi there 👋
