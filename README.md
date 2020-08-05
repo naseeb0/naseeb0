@@ -1,4 +1,4 @@
-![n](https://user-images.githubusercontent.com/40313494/89421357-c8edb600-d6e8-11ea-97ee-aae457424754.gif)
+![design](https://user-images.githubusercontent.com/40313494/89421903-7a8ce700-d6e9-11ea-8f95-34ff68eb624f.png)
 
 
 ### Hi there 👋
